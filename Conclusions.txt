@@ -1,0 +1,4 @@
+I Learn about The Iris flower data set.
+In addition, I learned and realized PCA and Knn Algorithm.
+I use My first time in the libary sklearn.
+How to Make project in github.
